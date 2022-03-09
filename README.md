@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefbelhadi" alt="youssefbelhadi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/youssefbelhadi?tab=projects&type=beta](https://github.com/youssefbelhadi)
+- 👨‍💻 All of my projects are available at [https://github.com/youssefbelhadi?tab=projects](https://github.com/youssefbelhadi)
 
 - 📫 How to reach me **youssefbelhadi5@gmail.com**
 
